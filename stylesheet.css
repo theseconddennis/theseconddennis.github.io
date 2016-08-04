@@ -8,6 +8,7 @@
 	border-radius: 7px;
 	font-size: 5em;
 	text-align: center;
+	
 }
 
 #text_part {
@@ -25,5 +26,11 @@
 div > * {
 	
 	text-align:center;
+	
+}
+
+.sideText {
+	
+	text-align:left;
 	
 }
