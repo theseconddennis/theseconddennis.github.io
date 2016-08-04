@@ -1,7 +1,6 @@
 #text_part {
 	
-	margin-top: 100px;
-	margin-left: 250px;
+	position: center;
 	width: 500px;
 	height: 1500px;
 	background-color: brown;
