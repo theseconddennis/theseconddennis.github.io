@@ -1,7 +1,9 @@
 #text_part {
+	position: center;
 	width: 500px;
 	height: 1500px;
 	background-color: brown;
 	color: yellow;
 	border: 3px solid yellow;
+	
 }
