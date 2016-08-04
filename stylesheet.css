@@ -25,12 +25,13 @@
 
 div > * {
 	
-	text-align:center;
+	text-align: center;
 	
 }
 
 .sideText > *{
 	
-	text-align:left;
+	margin-left: 12px;
+	text-align: left;
 	
 }
