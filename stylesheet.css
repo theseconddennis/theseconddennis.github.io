@@ -23,14 +23,15 @@
 	
 }
 
-div > * {
-	
-	text-align:center;
-	
-}
-
 .sideText {
 	
 	text-align:left;
+	
+}
+
+
+div > * {
+	
+	text-align:center;
 	
 }
