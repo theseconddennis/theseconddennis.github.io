@@ -4,13 +4,14 @@
 	width: 1000px;
 	height: 150px;
 	background-color: gray;
+	border: 2px solid black;
+	border-radius: 2px;
 	
 }
 
 #text_part {
 	
 	margin: auto;
-	margin-top: 150px;
 	width: 850px;
 	height: 1500px;
 	background-color: brown;
