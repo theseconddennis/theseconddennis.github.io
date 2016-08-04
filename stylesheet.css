@@ -6,7 +6,8 @@
 	background-color: gray;
 	border: 10px solid #453A38;
 	border-radius: 7px;
-	
+	font-size: 5em;
+	text-align: center;
 }
 
 #text_part {
